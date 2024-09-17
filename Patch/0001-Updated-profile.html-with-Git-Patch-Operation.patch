@@ -1,0 +1,21 @@
+From 262863c3c77fc312e7d4954b097fb29e672494ea Mon Sep 17 00:00:00 2001
+From: anavi <anavi.20029@gmail.com>
+Date: Tue, 17 Sep 2024 16:12:53 +0530
+Subject: [PATCH] Updated profile.html with Git Patch Operation
+
+---
+ profile.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/profile.html b/profile.html
+index 63df537..22a3190 100644
+--- a/profile.html
++++ b/profile.html
+@@ -9,3 +9,4 @@
+ Git Patch Operation
+ 
+ </html>
++
+-- 
+2.46.0.windows.1
+
